@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WebNangCao16CLC1/WebNangCao16CLC1/static/css/main.0baa9e7e.chunk.css",
+    "main.js": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/main.f080c849.chunk.js",
+    "main.js.map": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/main.f080c849.chunk.js.map",
+    "runtime-main.js": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/runtime-main.5dd3a234.js",
+    "runtime-main.js.map": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/runtime-main.5dd3a234.js.map",
+    "static/js/2.0da06914.chunk.js": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/2.0da06914.chunk.js",
+    "static/js/2.0da06914.chunk.js.map": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/2.0da06914.chunk.js.map",
+    "index.html": "/WebNangCao16CLC1/WebNangCao16CLC1/index.html",
+    "precache-manifest.af72af112e24ee66ef47bdbb6d1502a2.js": "/WebNangCao16CLC1/WebNangCao16CLC1/precache-manifest.af72af112e24ee66ef47bdbb6d1502a2.js",
+    "service-worker.js": "/WebNangCao16CLC1/WebNangCao16CLC1/service-worker.js",
+    "static/css/main.0baa9e7e.chunk.css.map": "/WebNangCao16CLC1/WebNangCao16CLC1/static/css/main.0baa9e7e.chunk.css.map",
+    "static/js/2.0da06914.chunk.js.LICENSE.txt": "/WebNangCao16CLC1/WebNangCao16CLC1/static/js/2.0da06914.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd3a234.js",
+    "static/js/2.0da06914.chunk.js",
+    "static/css/main.0baa9e7e.chunk.css",
+    "static/js/main.f080c849.chunk.js"
+  ]
+}
